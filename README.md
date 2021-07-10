@@ -1,7 +1,7 @@
 # Jogo da memoria Dio
  
 Você pode acessar o projeto no link abaixo <br>
-<a href="">Aqui</a>
+<a href="https://jogo-da-memoria-dio-bg4bzbapb-daniellins2654.vercel.app/">Aqui</a>
 ## Sobre o projeto
 Jogo da memoria com cards do Mario feito em JavaScript no botcamp JavaScript game Developer da plataforma Digital Innovation one
 
